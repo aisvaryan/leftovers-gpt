@@ -1,0 +1,142 @@
+{
+  "Grilled Chicken Quinoa Bowl": {
+    "serving_size": "450g",
+    "calories": 520,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 18
+  },
+  "Avocado Egg Toast": {
+    "serving_size": "300g",
+    "calories": 380,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 24
+  },
+  "Salmon Rice Bowl": {
+    "serving_size": "500g",
+    "calories": 560,
+    "protein": 42,
+    "carbs": 50,
+    "fat": 20
+  },
+  "Turkey Veggie Stir Fry": {
+    "serving_size": "420g",
+    "calories": 430,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 15
+  },
+  "Greek Yogurt Berry Bowl": {
+    "serving_size": "350g",
+    "calories": 300,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 8
+  },
+  "Chicken Sweet Potato Bowl": {
+    "serving_size": "480g",
+    "calories": 540,
+    "protein": 44,
+    "carbs": 45,
+    "fat": 16
+  },
+  "Tuna Avocado Salad": {
+    "serving_size": "380g",
+    "calories": 410,
+    "protein": 38,
+    "carbs": 15,
+    "fat": 25
+  },
+  "Egg Veggie Scramble": {
+    "serving_size": "250g",
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "Brown Rice Chicken Bowl": {
+    "serving_size": "520g",
+    "calories": 580,
+    "protein": 45,
+    "carbs": 55,
+    "fat": 17
+  },
+  "Lentil Soup Bowl": {
+    "serving_size": "500g",
+    "calories": 360,
+    "protein": 24,
+    "carbs": 50,
+    "fat": 8
+  },
+  "Tofu Veggie Stir Fry": {
+    "serving_size": "430g",
+    "calories": 400,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 18
+  },
+  "Chicken Avocado Wrap": {
+    "serving_size": "320g",
+    "calories": 480,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 22
+  },
+  "Quinoa Veggie Salad": {
+    "serving_size": "400g",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "Oat Protein Bowl": {
+    "serving_size": "450g",
+    "calories": 450,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 16
+  },
+  "Shrimp Garlic Rice": {
+    "serving_size": "470g",
+    "calories": 520,
+    "protein": 38,
+    "carbs": 50,
+    "fat": 15
+  },
+  "Spinach Feta Omelet": {
+    "serving_size": "220g",
+    "calories": 340,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 26
+  },
+  "Beef Broccoli Bowl": {
+    "serving_size": "500g",
+    "calories": 600,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 28
+  },
+  "Chickpea Salad Bowl": {
+    "serving_size": "420g",
+    "calories": 390,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 16
+  },
+  "Chicken Cauliflower Rice Bowl": {
+    "serving_size": "430g",
+    "calories": 420,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 14
+  },
+  "Banana Peanut Butter Smoothie": {
+    "serving_size": "400ml",
+    "calories": 430,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 18
+  }
+}

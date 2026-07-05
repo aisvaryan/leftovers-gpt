@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Grilled Chicken Quinoa Bowl",
+    "ingredients": [
+      "chicken",
+      "quinoa",
+      "spinach",
+      "olive oil",
+      "garlic"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Avocado Egg Toast",
+    "ingredients": [
+      "eggs",
+      "bread",
+      "avocado",
+      "olive oil"
+    ],
+    "serving_size": "1 toast plate"
+  },
+  {
+    "name": "Salmon Rice Bowl",
+    "ingredients": [
+      "salmon",
+      "rice",
+      "soy sauce",
+      "cucumber"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Turkey Veggie Stir Fry",
+    "ingredients": [
+      "turkey",
+      "broccoli",
+      "carrots",
+      "soy sauce",
+      "garlic"
+    ],
+    "serving_size": "1 plate"
+  },
+  {
+    "name": "Greek Yogurt Berry Bowl",
+    "ingredients": [
+      "greek yogurt",
+      "blueberries",
+      "honey",
+      "oats"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Chicken Sweet Potato Bowl",
+    "ingredients": [
+      "chicken",
+      "sweet potato",
+      "spinach",
+      "olive oil"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Tuna Avocado Salad",
+    "ingredients": [
+      "tuna",
+      "avocado",
+      "lettuce",
+      "olive oil",
+      "lemon"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Egg Veggie Scramble",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "tomato",
+      "onion",
+      "olive oil"
+    ],
+    "serving_size": "1 plate"
+  },
+  {
+    "name": "Brown Rice Chicken Bowl",
+    "ingredients": [
+      "chicken",
+      "brown rice",
+      "broccoli",
+      "soy sauce"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Lentil Soup Bowl",
+    "ingredients": [
+      "lentils",
+      "carrots",
+      "onion",
+      "garlic",
+      "broth"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Tofu Veggie Stir Fry",
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "carrots",
+      "soy sauce",
+      "garlic"
+    ],
+    "serving_size": "1 plate"
+  },
+  {
+    "name": "Chicken Avocado Wrap",
+    "ingredients": [
+      "chicken",
+      "tortilla",
+      "avocado",
+      "lettuce"
+    ],
+    "serving_size": "1 wrap"
+  },
+  {
+    "name": "Quinoa Veggie Salad",
+    "ingredients": [
+      "quinoa",
+      "cucumber",
+      "tomato",
+      "olive oil",
+      "lemon"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Oat Protein Bowl",
+    "ingredients": [
+      "oats",
+      "banana",
+      "peanut butter",
+      "milk"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Shrimp Garlic Rice",
+    "ingredients": [
+      "shrimp",
+      "rice",
+      "garlic",
+      "olive oil",
+      "soy sauce"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Spinach Feta Omelet",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "feta cheese",
+      "olive oil"
+    ],
+    "serving_size": "1 omelet"
+  },
+  {
+    "name": "Beef Broccoli Bowl",
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "soy sauce",
+      "garlic"
+    ],
+    "serving_size": "1 plate"
+  },
+  {
+    "name": "Chickpea Salad Bowl",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "tomato",
+      "olive oil",
+      "lemon"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Chicken Cauliflower Rice Bowl",
+    "ingredients": [
+      "chicken",
+      "cauliflower rice",
+      "spinach",
+      "garlic"
+    ],
+    "serving_size": "1 bowl"
+  },
+  {
+    "name": "Banana Peanut Butter Smoothie",
+    "ingredients": [
+      "banana",
+      "peanut butter",
+      "milk",
+      "honey"
+    ],
+    "serving_size": "1 glass"
+  }
+]
