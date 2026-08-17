@@ -105,10 +105,6 @@ leftovers-gpt/
 
 
 ### 2. Video Recording
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_39Nguy2sg?si=yqa-cmRPQiqLx8Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 5. Launch the ADK Web Playground
-Interactive playground for manual conversation:
-```bash
-agents-cli playground
-```
