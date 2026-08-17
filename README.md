@@ -96,40 +96,16 @@ leftovers-gpt/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Demo 
 
-### 1. Prerequisites
-- **Python**: `>=3.11, <3.14`
-- **uv**: Python package manager ([Install uv](https://docs.astral.sh/uv/getting-started/installation/))
-- **google-agents-cli**: CLI tool for evaluation and scaffolding
+### 1. Screenshots
+<img width="823" height="715" alt="Screenshot 2026-07-06 at 10 25 46 AM" src="https://github.com/user-attachments/assets/ca75d4dc-d5bb-41bd-ac17-0d1b2c919bf0" />
 
-```bash
-# Setup CLI and install skills
-uv tool install google-agents-cli
-agents-cli setup
-```
+<img width="505" height="315" alt="Screenshot 2026-07-06 at 10 30 25 AM" src="https://github.com/user-attachments/assets/e86168ea-1f9a-448a-b4df-b528945bd245" />
 
-### 2. Install Project Dependencies
-Run from the project root directory:
-```bash
-agents-cli install
-```
 
-### 3. Run the MCP Server Locally
-You can test the MCP server standalone in standard I/O (stdio) transport:
-```bash
-uv run python mcp_server/server.py
-```
-
-### 4. Run the LeftoversGPT Agent (app.py)
-Provide raw input ingredients to the local entry point to run the multi-agent workflow:
-```bash
-# Run with default ingredients
-uv run python app.py
-
-# Run with custom ingredients
-uv run python app.py "chicken, broccoli, garlic"
-```
+### 2. Video Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_39Nguy2sg?si=yqa-cmRPQiqLx8Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 5. Launch the ADK Web Playground
 Interactive playground for manual conversation:
