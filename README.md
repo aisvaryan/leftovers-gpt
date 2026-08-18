@@ -106,6 +106,6 @@ leftovers-gpt/
 
 ### 2. Video Recording
 
-[![Demo Video Link Here!](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Z_39Nguy2sg](https://youtu.be/Z_39Nguy2sg?si=fyXoa5FfGVSuYdpu))
+[![Demo Video Link Here!]([https://www.youtube.com/watch?v=Z_39Nguy2sg](https://youtu.be/Z_39Nguy2sg?si=fyXoa5FfGVSuYdpu))
 
 
