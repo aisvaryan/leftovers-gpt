@@ -2,6 +2,18 @@
 
 LeftoversGPT is an AI-assisted meal planning system designed to reduce food waste and optimize home cooking decisions. Built using the **Google Agent Development Kit (ADK)** and the **Model Context Protocol (MCP)**, it implements a modular, multi-agent architecture to process pantry ingredients, search recipes, retrieve nutrition facts, and calculate shopping list diffs.
 
+## 🚀 Demo 
+
+### 1. Screenshots
+<img width="823" height="715" alt="Screenshot 2026-07-06 at 10 25 46 AM" src="https://github.com/user-attachments/assets/ca75d4dc-d5bb-41bd-ac17-0d1b2c919bf0" />
+
+<img width="505" height="315" alt="Screenshot 2026-07-06 at 10 30 25 AM" src="https://github.com/user-attachments/assets/e86168ea-1f9a-448a-b4df-b528945bd245" />
+
+
+### 2. Video Recording
+
+[▶️ Watch the Demo Video](https://www.youtube.com/watch?v=Z_39Nguy2sg)
+
 ---
 
 ## 🏗️ Architecture Overview
@@ -93,17 +105,3 @@ leftovers-gpt/
 3. **`find_missing_ingredients`**
    - **Input**: `recipe_name: str`, `pantry_ingredients: List[str]`
    - **Output**: List of missing ingredients required for recipe completion.
-
----
-
-## 🚀 Demo 
-
-### 1. Screenshots
-<img width="823" height="715" alt="Screenshot 2026-07-06 at 10 25 46 AM" src="https://github.com/user-attachments/assets/ca75d4dc-d5bb-41bd-ac17-0d1b2c919bf0" />
-
-<img width="505" height="315" alt="Screenshot 2026-07-06 at 10 30 25 AM" src="https://github.com/user-attachments/assets/e86168ea-1f9a-448a-b4df-b528945bd245" />
-
-
-### 2. Video Recording
-
-[▶️ Watch the Demo Video](https://www.youtube.com/watch?v=Z_39Nguy2sg)
